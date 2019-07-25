@@ -9,3 +9,6 @@ Instagram automation bot built on top of Python programming language and Seleniu
 - Python3
 - Selenium
 - Firefox driver
+
+### Usage:
+` python app.py `
