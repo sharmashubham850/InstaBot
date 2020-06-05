@@ -1,5 +1,5 @@
+__pycache__
+.vscode
 config.py
 geckodriver.log
-arvndbb_bot.py
 test.py
-__pycache__
